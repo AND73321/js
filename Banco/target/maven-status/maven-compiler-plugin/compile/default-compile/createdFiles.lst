@@ -1,0 +1,5 @@
+utils\Concexion.class
+dao\ClienteDao.class
+models\Transaccion.class
+dao\TransaccionDao.class
+models\Cliente.class
